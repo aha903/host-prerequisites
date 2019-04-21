@@ -8,3 +8,4 @@ chmod +x telegrampre.sh
 sh telegrampre.sh
 
 @khalijserver
+
